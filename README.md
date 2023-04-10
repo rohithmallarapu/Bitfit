@@ -1,4 +1,4 @@
-# Bitfit# Android Project 6 - *Name of App Here*
+# Bitfit# Android Project 6 - *Bitfit2*
 
 Submitted by: **Rohith Goud Mallarapu**
 
